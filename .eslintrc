@@ -1,0 +1,17 @@
+{
+    "env": {
+        "es6": true,
+        "browser": true,
+        "jquery": true,
+        "node": true,
+        "amd": true
+    },
+
+    "ecmaFeatures": {
+        "jsx": true,
+        "experimentalObjectRestSpread": true
+    },
+    "plugins": [
+        "react"
+    ]
+}
